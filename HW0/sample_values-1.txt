@@ -1,0 +1,15 @@
+First three values of matrix.txt:
+
+0.1254,0.0000,0.1565
+
+First three values of frequency.json:
+
+'sport': {'said': 428, 'game': 353, 'win': 288}
+
+First three values of scores.json:
+
+"business": {
+        "firm": 0.1256,
+        "bank": 0.1171,
+        "market": 0.1136
+    },
